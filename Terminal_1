@@ -1,0 +1,15 @@
+✅ Step 1: Compile each .cpp file to an object file (.o)
+g++ -c main.cpp   # Creates main.
+✅ Step 2: Link all object files to create the final executable
+g++ main.o -o myprogram
+✅ Step 3: Run the executable
+./myprogram
+
+
+✅ One-Step Command:
+g++ main.cpp -o myprogram
+✅ Run the program:
+./myprogram
+
+✅ Redirecting InputFile:
+./myprogram < input.txt
