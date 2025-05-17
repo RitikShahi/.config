@@ -14,3 +14,7 @@ g++ main.cpp -o myprogram
 
 ✅ Redirecting InputFile:
 ./myprogram < input.txt
+
+
+✅ Using the verison 14 compiler and using the standards from c++23 for evaluating features & syntax:
+g++-14 graphs.cpp -std=c++23 -o graphs1
