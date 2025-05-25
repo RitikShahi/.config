@@ -1,0 +1,10 @@
+Task	                         Command
+Check current branch	         git branch
+Create a new branch	             git branch <branch-name>
+Create and switch to branch	     git checkout -b <branch-name>
+Switch to existing branch	     git checkout <branch-name>
+Push a branch to GitHub	         git push origin <branch-name>
+List all branches	             git branch -a
+Delete a local branch	         git branch -d <branch-name>
+Initalize git                    git init
+addin to git                     git add .
