@@ -1,0 +1,11 @@
+Python3 --version
+Pip install
+Pip freeze
+Python3 -m venv Project_env
+Source Project_env/bin/activate
+Pip list
+Setting up Jupyter notebook
+1.create or mount the folder where we will store our projects
+2.start the server by running the cmd Jupyter notebook
+3.kernels are nothing but the info of programming language used
+ 
